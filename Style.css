@@ -1,0 +1,32 @@
+h1,h2{
+    color: red;
+}
+
+.test{
+    color: brown;
+}
+
+#sample{
+    text-decoration: line-through;
+    font-weight: bold;
+}
+
+.test2{
+    background-color: yellow;
+    font-weight: bold;
+}
+
+#sample2{
+    background-color: yellow;
+    color: red;
+    font-weight: bold;
+}
+
+#abc{
+    text-decoration: underline;
+    font-style: italic;
+}
+
+#efg{
+    letter-spacing: 5px;
+}
